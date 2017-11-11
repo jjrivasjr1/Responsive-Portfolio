@@ -257,7 +257,12 @@ input[type=submit] {
     margin-right:25px;
   }
   .main-section {
-    margin:auto;
+    /*margin:auto;*/
+
+  }
+
+  .work {
+    margin-left:20%;
   }
 
   .sidebar{
